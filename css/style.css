@@ -141,7 +141,7 @@ img {
 /*imagem banner top*/
 
 #inscriçao {
-  background-image: url("/img/bannertopo.png");
+  background-image: url("../img/bannertopo.png");
   background-position: center;
   background-repeat: no-repeat;
   border-top: none;
